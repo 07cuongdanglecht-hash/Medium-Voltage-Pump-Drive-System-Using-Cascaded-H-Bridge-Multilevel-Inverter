@@ -1,0 +1,2 @@
+# Medium-Voltage-Pump-Drive-System-Using-Cascaded-H-Bridge-Multilevel-Inverter
+ Đề tài nghiên cứu hệ truyền động bơm trung thế dùng biến tần đa mức cầu H xếp chồng.  Trọng tâm là mô hình MATLAB/Simulink triển khai cấu trúc biến tần cầu H 13 cấp và thiết kế  điều khiển vòng kín tinh vi: thuật toán FOC điều khiển độc lập mô-men và từ thông, phương  pháp PSC-PWM đa sóng mang triệt tiêu sóng hài hiệu quả.
